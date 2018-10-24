@@ -9,7 +9,7 @@
                 "s3:GetObject"
             ],
             "Resource": [
-                "arn:aws:s3:::horizono.unite.co.jp/*"
+                "arn:aws:s3:::/*"
             ]
         }
     ]
